@@ -1,0 +1,11 @@
+using System;
+namespace CodeToCode
+{
+    public class Writer
+    {
+        public void Write()
+        {
+            Console.WriteLine("Kanske");
+        }
+    }
+}
